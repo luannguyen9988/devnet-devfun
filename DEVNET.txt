@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 I'm a git genious now!
+=======
+
+
+Test merge
+>>>>>>> 6a0e7db0ce1ad113584006a88a5075f08e8c9888
